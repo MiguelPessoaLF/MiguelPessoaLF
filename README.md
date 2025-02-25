@@ -36,6 +36,6 @@ Making my way to reach the dream of working with software development and game d
 </p>
 
 # Find me here:
-
-[![instagram](./instagram.png)](https://www.instagram.com/mig_pessoa_?igsh=MWx2cDN0azRyOGNkZA%3D%3D&utm_source=qr)
-
+<a href="https://www.instagram.com/mig_pessoa_?igsh=MWx2cDN0azRyOGNkZA%3D%3D&utm_source=qr">
+  <img src="./instagram.png" alt="Logo do Projeto" width="60" height="60"/>
+</a>
