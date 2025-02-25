@@ -42,6 +42,7 @@ Making my way to reach the dream of working with software development and game d
 <a href="mailto:miguelplferreira10@gmail.com">
   <img src="./gmail.png" alt="Logo do Projeto" width="60" height="60"/>
 </a>
+## See all my codes: 
 <p>
- Professional email: miguelplferreira10@gmail.com
+Feel free to see my codes in the "codigos" repository, and get in touch by clicking on the icons in the "Find me here" page.
 </p>
