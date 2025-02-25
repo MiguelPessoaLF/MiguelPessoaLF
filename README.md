@@ -1,4 +1,4 @@
-•Hi, my name is Miguel, and I'm a computer science student in Brazil.🧑🏻‍💻
+•Hi, my name is Miguel, and I'm a Computer Science student in Brazil.🧑🏻‍💻
 
 # ABOUT ME:
 <p>
