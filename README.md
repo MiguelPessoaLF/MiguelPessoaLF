@@ -1,14 +1,14 @@
-Hi, my name is Miguel, and I'm a computer science student in Brazil.
+•Hi, my name is Miguel, and I'm a computer science student in Brazil.🧑🏻‍💻
 
 # ABOUT ME:
 <p>
- I am currently studying Computer Science at PUC Minas in Brazil. 
+•I am currently studying Computer Science at PUC Minas in Brazil. 📚
 </p>
 <p>
-Languages: Fluent in Portuguese, finishing an English course.
+•Languages: Fluent in Portuguese, finishing an English course.🌎
 </p>
 <p>
-Making my way to reach the dream of working with software development and game dev.
+•Making my way to reach the dream of working with software development and game dev.📍
 </p>
 
 # My Strongest Languages:
@@ -46,5 +46,5 @@ Making my way to reach the dream of working with software development and game d
 # My work:
 
 <p>
-Feel free to see my codes in the "codigos" repository, and get in touch by clicking on the icons in the "Find me here" page.
+•Feel free to see my codes in the "codigos" repository, and get in touch by clicking on the icons in the "Find me here" page.
 </p>
