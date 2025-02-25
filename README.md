@@ -37,4 +37,5 @@ Making my way to reach the dream of working with software development and game d
 
 # Find me here:
 
-<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by cobynecz - Flaticon</a>
+[![instagram](./instagram.png)](https://www.instagram.com/mig_pessoa_?igsh=MWx2cDN0azRyOGNkZA%3D%3D&utm_source=qr)
+
