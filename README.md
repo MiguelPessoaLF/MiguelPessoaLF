@@ -46,5 +46,5 @@
 # My work:
 
 <p>
-•Feel free to see my codes in the "codigos" repository, and get in touch by clicking on the icons in the "Find me here" page.
+•Take a look at my codes in the "codigos" repository, and get in touch by clicking on the icons in the "Find me here" page.
 </p>
