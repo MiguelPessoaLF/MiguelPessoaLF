@@ -8,7 +8,7 @@
 •Languages: Fluent in Portuguese, finishing an English course.🌎
 </p>
 <p>
-•Making my way to reach the dream of working with software development and game dev.📍
+•Making my way to reach the dream of working with software development.🎯
 </p>
 
 # My Strongest Languages:
